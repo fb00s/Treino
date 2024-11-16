@@ -21,9 +21,9 @@ int main(){
     printf("Digite outro numero\n");
     scanf("%d", &num2);
 
-    int resultado = num1 + num2;
+    int soma = num1 + num2;
 
-    printf("%d + %d = %d", num1, num2, resultado);
+    printf("%d + %d = %d", num1, num2, soma);
 
     return 0;
 }
