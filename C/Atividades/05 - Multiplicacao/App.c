@@ -2,9 +2,9 @@
 conforme exemplo abaixo:
 -------------------------Exemplo de execução-----------------------
 Output: Digite um numero
-Input: 3
+Input: 5
 Output: Digite outro numero
-Input: 4
-Output: 3 + 4 = 7
--------------------------Fim do programa---------------------------
+Input: 7
+Output: 5 x 7 = 35
+-------------------------Fim do programa--------------------------- 
 */
